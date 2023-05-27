@@ -3,26 +3,27 @@ article {
 }
 
 body {
+  background-size: 100% 100%;
   margin-top: 15px;
   text-align: center;
   background-color: #121212;
   color: white;
-  
+
   font-size: 200%;
 }
 
 h1 {
   color: #ffffff;
-  border-top: 2px solid #616161;
+
   padding-top: 10px;
   font-size: x-large;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h2 {
   color: #ffffff;
   font-size: x-large;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .nav {
@@ -30,8 +31,8 @@ h2 {
   height: 100%;
   top: 0;
   left: 0;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
 
 .info {
@@ -40,23 +41,22 @@ h2 {
   height: 300px;
   top: 0;
   left: 0;
-  border-top: 2px solid #616161;
 
-  .grid-container{
+  .grid-container {
     width: 100%;
     height: 100%;
     display: grid;
-    grid-template-columns: repeat(3,1fr);
+    grid-template-columns: repeat(3, 1fr);
   }
-  
-  .grid-item{
+
+  .grid-item {
     border: 1px solid rgb(68, 68, 68);
     padding: 30px;
     display: grid;
     place-items: center;
     margin-top: 15px;
   }
-  .b5{
+  .b5 {
     grid-column: 2/4;
   }
 }
@@ -64,7 +64,6 @@ h2 {
 .container {
   margin: 0 auto;
   max-width: 1000px;
-
 }
 
 img {
@@ -73,10 +72,9 @@ img {
 }
 
 p {
-  
+  border-bottom: solid#616161;
 }
 
 .information {
-  border-top: 2px solid #616161;
   color: #bebebe;
 }
