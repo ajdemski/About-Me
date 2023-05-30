@@ -22,7 +22,6 @@ _A Code Review Project from Aaron Demski, In this repository you'll find index.h
 
 ## _Link To Site_
 * _https://github.com
-* __
 
 ## Known Bugs
 
