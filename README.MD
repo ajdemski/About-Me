@@ -1,6 +1,4 @@
-#### By _** Aaron Demski **_
-
-#### _About Me_
+#### _By Aaron Demski_
 
 ## Technologies Used
 
@@ -16,7 +14,7 @@ _A Code Review Project from Aaron Demski, In this repository you'll find index.h
 ## Setup/Installation Requirements
 
 * _Clone my repository to your desktop using VsCode._
-* _Type "git clone (My-GitHub-Repository-Link)_
+* _In the terminal clone the repository with the command: git clone https://github.com/ajdemski/About-Me.git_
 * _Navigte to the top level of the directory._
 * _Open index.html in the file you cloned._
 
