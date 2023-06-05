@@ -21,7 +21,8 @@ _A Code Review Project from Aaron Demski, In this repository you'll find index.h
 * _Open index.html in the file you cloned._
 
 ## _Link To Site_
-* _https://github.com
+
+* _https://github.com_
 
 ## Known Bugs
 

@@ -56,6 +56,7 @@ h2 {
     place-items: center;
     margin-top: 15px;
   }
+
   .b5 {
     grid-column: 2/4;
   }
